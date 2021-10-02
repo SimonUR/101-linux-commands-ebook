@@ -74,7 +74,7 @@ Feel free to add new topics in case that you don't find one that you like from t
 * TODO: [048-the-last-command.md](ebook/en/content/048-the-last-command.md)
 * TODO: [049-the-locate-command.md](ebook/en/content/049-the-locate-command.md)
 * TODO: [050-the-iostat-command.md](ebook/en/content/050-the-iostat-command.md)
-* TODO: [051-the-sudo-command.md](ebook/en/content/051-the-sudo-command.md)
+[051-the-sudo-command.md](ebook/en/content/051-the-sudo-command.md)
 * TODO: [052-the-apt-command.md](ebook/en/content/052-the-apt-command.md)
 * TODO: [053-the-yum-command.md](ebook/en/content/053-the-yum-command.md)
 * TODO: [054-the-zip-command.md](ebook/en/content/054-the-zip-command.md)
